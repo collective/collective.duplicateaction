@@ -1,0 +1,51 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-10-31 16:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.duplicateaction\n"
+
+#: ./browser.py:36
+msgid "${title} is not duplicable."
+msgstr ""
+
+#: ./browser.py:54
+msgid "Disallowed to duplicate item."
+msgstr ""
+
+#: ./profiles/default/actions.xml
+msgid "Duplicate"
+msgstr ""
+
+#: ./browser.py:41
+msgid "Duplicate failed to copy item."
+msgstr ""
+
+#: ./browser.py:59
+msgid "Duplicate failed to paste item."
+msgstr ""
+
+#: ./browser.py:49
+msgid "Item duplicated."
+msgstr ""
+
+#: ./browser.py:27
+msgid "Permission denied to duplicate ${title}."
+msgstr ""
+
+#: ./browser.py:56
+msgid "Unauthorized to duplicate item."
+msgstr ""
+

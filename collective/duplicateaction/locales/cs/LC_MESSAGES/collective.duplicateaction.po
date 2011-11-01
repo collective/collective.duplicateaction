@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.duplicateaction\n"
+"POT-Creation-Date: 2011-10-31 16:43+0000\n"
+"PO-Revision-Date: 2011-10-31 17:50+0100\n"
+"Last-Translator: Lukas Zdych <lukas.zdych@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Language-Team: \n"
+
+#: ./browser.py:36
+msgid "${title} is not duplicable."
+msgstr "${title} nelze duplikovat."
+
+#: ./browser.py:54
+msgid "Disallowed to duplicate item."
+msgstr "Duplikace položky není povolena."
+
+#: ./profiles/default/actions.xml
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: ./browser.py:41
+msgid "Duplicate failed to copy item."
+msgstr "Duplikace selhala při kopírování položky."
+
+#: ./browser.py:59
+msgid "Duplicate failed to paste item."
+msgstr "Duplikace selhala při vkládání položky."
+
+#: ./browser.py:49
+msgid "Item duplicated."
+msgstr "Položka byla duplikována."
+
+#: ./browser.py:27
+msgid "Permission denied to duplicate ${title}."
+msgstr "Nedostatečné oprávnění k duplikování položky ${title}."
+
+#: ./browser.py:56
+msgid "Unauthorized to duplicate item."
+msgstr "Chybí oprávnění duplikovat položku."
+

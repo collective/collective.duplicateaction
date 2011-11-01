@@ -1,5 +1,10 @@
-# -*- extra stuff goes here -*-
+# -*- coding: utf-8 -*-
 
+from zope.i18nmessageid import MessageFactory
+from plone.theme.interfaces import IDefaultPloneLayer
 
-def initialize(context):
-    """Initializer called when used as a Zope 2 product."""
+_ = MessageFactory('collective.duplicateaction')
+
+class IBrowserLayer(IDefaultPloneLayer):
+
+    """ Marker interface that defines a Zope 3 browser layer. """
