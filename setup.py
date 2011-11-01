@@ -5,7 +5,7 @@ version = '1.0'
 
 setup(name='collective.duplicateaction',
       version=version,
-      description="",
+      description="Adds additional action to content actions menu for duplicating content.",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
@@ -14,10 +14,10 @@ setup(name='collective.duplicateaction',
         "Framework :: Plone",
         "Programming Language :: Python",
         ],
-      keywords='',
-      author='',
-      author_email='',
-      url='http://svn.plone.org/svn/collective/',
+      keywords='plone contentaction duplicate',
+      author='Lukas Zdych',
+      author_email='lukas.zdych@gmail.com',
+      url='http://github.com/collective/collective.duplicateaction',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['collective'],
