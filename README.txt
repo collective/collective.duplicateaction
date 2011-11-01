@@ -47,7 +47,7 @@ How it works
 Copyright and Credits
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-collective.deactivateaction is licensed under the GPL. See LICENSE.txt for details.
+collective.duplicateaction is licensed under the GPL. See LICENSE.txt for details.
 
 
 Author: `Lukas Zdych (lzdych)`__
